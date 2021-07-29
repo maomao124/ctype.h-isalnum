@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ctype.h   isalnum函数", "ctype.h   isalnum函数.vcxproj", "{E692894D-2804-4229-B3F3-F648AB5F71F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E692894D-2804-4229-B3F3-F648AB5F71F6}.Debug|x64.ActiveCfg = Debug|x64
+		{E692894D-2804-4229-B3F3-F648AB5F71F6}.Debug|x64.Build.0 = Debug|x64
+		{E692894D-2804-4229-B3F3-F648AB5F71F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{E692894D-2804-4229-B3F3-F648AB5F71F6}.Debug|x86.Build.0 = Debug|Win32
+		{E692894D-2804-4229-B3F3-F648AB5F71F6}.Release|x64.ActiveCfg = Release|x64
+		{E692894D-2804-4229-B3F3-F648AB5F71F6}.Release|x64.Build.0 = Release|x64
+		{E692894D-2804-4229-B3F3-F648AB5F71F6}.Release|x86.ActiveCfg = Release|Win32
+		{E692894D-2804-4229-B3F3-F648AB5F71F6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01136489-DC6D-43E2-9A6E-B0A6F7AD4B91}
+	EndGlobalSection
+EndGlobal
